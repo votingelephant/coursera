@@ -3,7 +3,7 @@
 var fs = require('fs');
 var file = "primes.txt";
 
-var current_number = 1;
+var current_number = 2;
 var prime_numbers = [];
 
 var check_primeness = function(n)
